@@ -21,7 +21,7 @@ The model is trained on a dataset containing records of milk samples along with 
 ## Model Architecture
 The Milk Quality Prediction model is built using machine learning algorithm Gradient Boosting and has an accuracy of 84.33%
 
-##Model Deployment on web page 
+## Model Deployment on web page 
 The model has been deployed on a web page utilizing the Flask framework to provide a user-friendly interface for accessing its functionalities.
 
 
