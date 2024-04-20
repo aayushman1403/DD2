@@ -1,7 +1,7 @@
 # Milk Quality Prediction Model
 
 ## Overview
-This project aims to predict the quality of milk based on various input features using machine learning techniques. The model predicts whether the milk is of high , medium or low quality based on factors such as fat content, odour, turbidity percentage, temperature, Ph level, taste and colour.
+This is a collaborative project which seeks to revolutionize  dairy farming interactions by providing vital information and ensuring transparency at Dairy centrein which this machine learning model project aims to predict the quality of milk based on various input features using machine learning techniques. The model predicts whether the milk is of high , medium or low quality based on factors such as fat content, odour, turbidity percentage, temperature, Ph level, taste and colour.
 
 ## Features
 - Input features: 
